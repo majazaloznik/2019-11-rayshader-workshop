@@ -10,12 +10,12 @@
 
 
 ## preliminaires ##############################################################
-  
-  options(rgl.useNULL = FALSE)
-  library(ggplot2)
-  library(whitebox)
-  library(rayshader)
-  library(rayrender)
+
+options(rgl.useNULL = FALSE)
+library(ggplot2)
+library(whitebox)
+library(rayshader)
+library(rayrender)
 library(raster)
 library(spatstat)
 library(spatstat.utils)
